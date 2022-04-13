@@ -31,8 +31,10 @@
   flex-flow: row wrap;
 }
 /* 5. exercice-flow-2 */
-.exercice-flow-2 {
-
+.exercice-flow-2 .container{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
 }
 /* 6. exercice-all-in-1 */
 
