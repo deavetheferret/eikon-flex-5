@@ -12,19 +12,18 @@
 }
 
 .exercice-baseline-2 .element {
-  flex-grow: 1;
-  width: 35%;
+  width: 50%;
+  box-sizing: border-box;
 }
 /* 3. exercice-baseline-3 */
 .exercice-baseline-3 .container {
   display: flex;
   justify-content: center;
   align-items: baseline;
+  flex-wrap: wrap;
+  align-content: center;
 }
 
-.exercice-baseline-3 .element {
-  margin-top: 15%;
-}
 /* 4. exercice-flow-1 */
 .exercice-flow-1 .container {
   display: flex;
