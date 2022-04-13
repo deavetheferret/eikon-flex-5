@@ -4,7 +4,9 @@
   align-items: baseline;
 }
 /* 2. exercice-baseline-2 */
-.exercice-baseline-2 .container
+.exercice-baseline-2 .container {
+  display: flex;
+}
 /* 3. exercice-baseline-3 */
 
 /* 4. exercice-flow-1 */
