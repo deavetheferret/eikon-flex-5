@@ -16,7 +16,15 @@
   width: 35%;
 }
 /* 3. exercice-baseline-3 */
+.exercice-baseline-3 .container {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
 
+.exercice-baseline-3 .element {
+  margin-top: 15%;
+}
 /* 4. exercice-flow-1 */
 
 /* 5. exercice-flow-2 */
