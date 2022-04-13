@@ -28,10 +28,12 @@
 /* 4. exercice-flow-1 */
 .exercice-flow-1 .container {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
 }
 /* 5. exercice-flow-2 */
+.exercice-flow-2 {
 
+}
 /* 6. exercice-all-in-1 */
 
 /* 7. exercice-all-in-2 */
