@@ -26,7 +26,10 @@
   margin-top: 15%;
 }
 /* 4. exercice-flow-1 */
-
+.exercice-flow-1 .container {
+  display: flex;
+  flex-wrap: wrap;
+}
 /* 5. exercice-flow-2 */
 
 /* 6. exercice-all-in-1 */
