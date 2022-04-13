@@ -37,5 +37,12 @@
   justify-content: flex-start;
 }
 /* 6. exercice-all-in-1 */
-
+.exercice-all-in-1 .container {
+  display: flex;
+  /* flex-flow: column-reverse wrap-reverse; */
+  flex-direction: column-reverse;
+  flex-wrap: wrap-reverse;
+  align-items: center;
+  justify-content: space-between;
+}
 /* 7. exercice-all-in-2 */
